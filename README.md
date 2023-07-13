@@ -1,2 +1,2 @@
 # lossless_compression
-Learning about lossless compression algorithms
+Learning about lossless compression algorithms.
